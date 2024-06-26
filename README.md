@@ -23,6 +23,6 @@ More info about the project can be found on projectReport.pdf
 [![DEMO](https://img.youtube.com/vi/KA64yNy_8x4/0.jpg)](https://www.youtube.com/watch?v=KA64yNy_8x4)
 
 ##### AUTHORS
-ÁLVARO GARCIA LORA 
-SERGIO LEÓN DONCEL
+ÁLVARO GARCIA LORA //
+SERGIO LEÓN DONCEL //
 JUAN ANTONIO CANO VÍLCHEZ 
