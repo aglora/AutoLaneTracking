@@ -5,7 +5,7 @@ Starting from a toy RC car in Ackermann configuration, its chassis and motors wi
 
 This will allow the vehicle to move within a defined lane autonomously. Experiments will be conducted on a circuit specifically designed to verify the system's performance.
 
-![A](imgs/Imagen1.jgp)
+![A](imgs/Imagen1.jpg)
 
 ##### DETAILED REPORT
 More info about the project can be found on projectReport.pdf
